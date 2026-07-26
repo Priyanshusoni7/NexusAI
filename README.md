@@ -9,7 +9,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-latest-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-vector--store-FF6B35?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 **Ingest local documents and GitHub repositories. Query them with a Gemini-powered AI assistant that always cites its sources.**
 
@@ -225,6 +224,3 @@ NexusAI/
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
